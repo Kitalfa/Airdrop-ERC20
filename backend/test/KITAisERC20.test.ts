@@ -3,7 +3,7 @@ import { expect, assert } from 'chai';
 import { ethers } from 'hardhat';
 
 // Types
-import { KITAisERC20 } from '../typechain-types';
+import { KITAIsERC20 } from '../typechain-types';
 import type { SignerWithAddress } from '@nomicfoundation/hardhat-ethers/signers';
 import { StandardMerkleTree } from '@openzeppelin/merkle-tree';
 
