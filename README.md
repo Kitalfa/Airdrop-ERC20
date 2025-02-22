@@ -10,7 +10,7 @@ This project implements a standard ERC20 token with an additional whitelisting f
 
 ## Technologies Used
 
-- Solidity ^0.8.24
+- Solidity ^0.8.28
 - Hardhat
 - OpenZeppelin Contracts
 - @openzeppelin/merkle-tree
